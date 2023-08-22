@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there, Im Adam 👋
+
+You might be stumbling across my GitHub for a bunch of reasons. Feel free to hang around for a while and drop me a follow!
+
 
 <!--
 **amortensen1229/amortensen1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
