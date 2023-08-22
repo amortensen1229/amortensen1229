@@ -1,6 +1,6 @@
 ### Hey there, Im Adam 👋
 
-You might be stumbling across my GitHub for a bunch of reasons. Feel free to hang around for a while and drop me a follow!
+You might be stumbling across my GitHub for a bunch of reasons, feel free to hang around for a while and drop me a follow!
 
 
 <!--
